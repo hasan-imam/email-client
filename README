@@ -1,0 +1,5 @@
+A barebone email client (with GUI) that allows user to send plain text emails. Created while I was studying SMTP protocol.
+
+Lookup your mail server's name using commands like nslookup. It is needed to fill up the "Local mailserver" field.
+
+Note: Does not use any authentication scheme, so some email service might reject to send or send while marking it as a phishing email message. But was good enough to work for my university email service.
